@@ -1,4 +1,4 @@
-# Reddit based Stock-Market Data Sentiment Analysis
+# Reddit based Stock-Market Data Web-Scraping and Analysis
 
 This project analyzes Reddit discussions related to Indian stock market indices such as **Nifty**, **Sensex**, **BankNifty**, and **Intraday trading**. It scrapes Reddit posts using PRAW, performs sentiment analysis, generates composite trading signals, and visualizes market sentiment trends.
 
